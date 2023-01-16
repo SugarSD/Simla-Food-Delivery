@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* Header */
+
 header {
     font-family: 'Inter', sans-serif;
     background-color: #357ECA;
@@ -26,11 +28,15 @@ h1 {
     margin: 5px;
 }
 
+/* Main */
+
 main {
     font-family: 'PT Sans', sans-serif;
     background-color: #5D98D5;
     overflow-x: hidden;
 }
+
+/* Mission */
 
 .mission-container {
     display: flex;
@@ -68,7 +74,7 @@ h4 {
     font-weight: 500;
 }
 
-
+/* Locations */
 
 .red-container {
     margin: 100px 5px;
@@ -124,6 +130,8 @@ h4 {
     text-decoration: none;
 }
 
+/* Team */
+
 .green-container {
     margin: 100px 5px;
     display: flex;
@@ -176,6 +184,8 @@ h4 {
     color: #A70300;
     text-decoration: none;
 }
+
+/* Footer */
 
 .footer-container {
     background-color: #357ECA;
